@@ -43,4 +43,4 @@ Java (JDK 8+)
 
 IntelliJ IDEA / Eclipse
 
-Git & GitHub
+VS Code
